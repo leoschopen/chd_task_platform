@@ -1,0 +1,14 @@
+# 本地配置文件
+.vscode/
+.jsbeautifyrc
+
+# python缓存文件
+__pycache__/
+*.pyc 
+
+# 模板
+build/
+
+xshellcolor.xcs
+# 数据库
+# db.sqlite3
